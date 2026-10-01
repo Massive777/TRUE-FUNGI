@@ -1,0 +1,6 @@
+{
+  "name": "TRUE FUNGI — Functional Mushroom Commerce",
+  "description": "Офіційна цифрова платформа функціональних грибних добавок TRUE FUNGI: мобільний магазин, єдиний REST API, база знань, інтеграції з Новою Поштою та платіжними провайдерами, CMS/Admin панель.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
